@@ -1,0 +1,24 @@
+Pour compiler le projet il faut installer :
+
+-opencv_contribut 
+Pour ceci : suivre les instruction dans :
+https://github.com/opencv/opencv_contrib
+
+Il faut aussi installer 
+
+cmake :
+sudo apt-get install cmake
+Puis 
+taper dans le terminal :
+
+- cmake .
+- make
+
+Corriger les bugs qui vont apparaitre éventuellement
+
+l'executable qui sera générer porte le nom de pfe
+
+puis il faut taper 
+
+-./pfe
+
